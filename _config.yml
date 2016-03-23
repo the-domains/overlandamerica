@@ -1,0 +1,28 @@
+name: overlandAmerica
+favicon: null
+layout_spectrum: 0.009960131254047155
+typography_spectrum: 0.5657645480241627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4774418333545327
+  lightness: 0.25913577782921493
+  saturation: 0.150701706064865
+  rhythmicContrast: 0.11658830079250038
+purpose: []
