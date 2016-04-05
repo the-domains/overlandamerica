@@ -1,6 +1,6 @@
 name: overlandAmerica
 favicon: null
-layout_spectrum: 0.26356
+layout_spectrum: 0.75035
 typography_spectrum: 0.47218
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#0a0d12'
     - '#7699c1'
     - '#e1ae75'
-  brandStrength: 1
-  lightness: 0.25913577782921493
-  saturation: 1
-  rhythmicContrast: 0.11658830079250038
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
